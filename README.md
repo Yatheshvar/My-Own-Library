@@ -1,2 +1,2 @@
-# My-Own-Library
-Today I learnt to make my own library
+# p5.play-boilerplate
+Boiler plate for p5.play
